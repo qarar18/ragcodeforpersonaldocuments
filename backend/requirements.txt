@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pdfplumber
+beautifulsoup4
+requests
+playwright
+transformers
+torch
+langchain
+langchain-community
+sentence-transformers
+chromadb
